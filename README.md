@@ -7,6 +7,7 @@ This is a prototype made in Unity (2020.1.12) for a game I'm making. It's a map 
 **Controls**:
  - Left mouse click: select the path origin (click again to deselect)
  - Right mouse click: select the path destination (click again to deselect)
+ - Scroll wheel to zoom
  - If you've selected two valid places, the shortest path between them will appear
  - Note: You can only select the brightly colored places for a path and not what I've called the crossroads (smaller dots the same color sa the roads)
 
