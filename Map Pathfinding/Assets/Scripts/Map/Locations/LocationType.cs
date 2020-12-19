@@ -1,0 +1,1 @@
+﻿public enum LocationType { CAPITAL, CITY, FARMLAND, FOREST, MOUNTAIN, CROSSROAD }
